@@ -1,0 +1,12 @@
+PODS:
+  - PaylevenFramework (1.1.5)
+
+DEPENDENCIES:
+  - PaylevenFramework
+
+SPEC CHECKSUMS:
+  PaylevenFramework: d275ed61de1f9fcd21fef0be876de945b5c49b6c
+
+PODFILE CHECKSUM: c61d2be844590dd9adb36b4a5e53258e800d06be
+
+COCOAPODS: 1.1.1

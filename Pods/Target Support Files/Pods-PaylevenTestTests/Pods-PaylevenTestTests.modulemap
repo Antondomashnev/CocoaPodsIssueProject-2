@@ -1,0 +1,6 @@
+framework module Pods_PaylevenTestTests {
+  umbrella header "Pods-PaylevenTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
